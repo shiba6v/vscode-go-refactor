@@ -1,0 +1,1 @@
+export { runRefillStruct } from './goRefillStruct';
