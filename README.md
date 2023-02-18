@@ -8,9 +8,7 @@ Open the command pallette (⌘ + P) and type the command name
 
 Automatically fill the struct values with defined fields of other variables or defaults.
 
-![1](media/refillstruct/1.png)
-![2](media/refillstruct/2.png)
-![3](media/refillstruct/3.png)
+![1](media/refillstruct/1.gif)
 
 ## License
 
