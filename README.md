@@ -2,9 +2,15 @@
 
 Open the command pallette (⌘ + P) and type the command name
 
-| Tool         | Description                |
-| ------------ | -------------------------- |
-| refillstruct | Auto fill the struct value |
+## Commands
+
+### Refill Struct
+
+Automatically fill the struct values with defined fields of other variables or defaults.
+
+![1](media/refillstruct/1.png)
+![2](media/refillstruct/2.png)
+![3](media/refillstruct/3.png)
 
 ## License
 
