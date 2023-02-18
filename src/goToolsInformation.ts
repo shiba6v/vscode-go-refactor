@@ -11,7 +11,7 @@ export const allToolsInformation: { [key: string]: Tool } = {
 		modulePath: 'github.com/shiba6v/reftools',
 		replacedByGopls: false,
 		isImportant: false,
-		description: 'Fill structs with defaults',
-		defaultVersion: 'v0.0.0-20210213085015-40322ffdc2e4'
+		description: 'Fill structs with values above or defaults',
+		defaultVersion: 'eecc5d1d347ec99b45ac69611fb36e6507290849'
 	}
 };
