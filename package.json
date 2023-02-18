@@ -23,7 +23,7 @@
     "url": "https://github.com/shiba6v/vscode-go-refactor"
   },
   "bugs": {
-    "url": "https://github.com/golang/vscode-go-refactor/issues"
+    "url": "https://github.com/shiba6v/vscode-go-refactor/issues"
   },
   "scripts": {
     "clean": "rm -rf ./dist/* && rm *.vsix",
