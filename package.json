@@ -1,7 +1,7 @@
 {
   "name": "go-refactoring-tools",
   "displayName": "Go Refactoring Tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "preview": true,
   "publisher": "shiba6v",
   "description": "Golang refactoring tools",
