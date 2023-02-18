@@ -3,13 +3,13 @@
   "displayName": "Go Refactoring Tools",
   "version": "0.1.0",
   "preview": true,
-  "publisher": "golang",
+  "publisher": "shiba6v",
   "description": "Golang refactoring tools",
   "author": {
-    "name": "Go Team at Google"
+    "name": "shiba6v"
   },
   "license": "MIT",
-  "icon": "media/go-logo-blue.png",
+  "icon": "media/icon.png",
   "categories": [
     "Snippets"
   ],
