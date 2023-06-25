@@ -12,6 +12,7 @@ export async function activate(ctx: vscode.ExtensionContext): Promise<ExtensionA
   await updateGoVarsFromConfig(goCtx);
   const registerCommand = commands.createRegisterCommand(ctx, goCtx);
   registerCommand('gorefactor.refillstruct', tools.runRefillStruct);
+  registerCommand('gorefactor.errauto', tools.runErrAuto);
   return extensionAPI;
 }
 

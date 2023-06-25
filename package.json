@@ -96,6 +96,11 @@
         "command": "gorefactor.refillstruct",
         "title": "Go: Refill struct",
         "description": "Refill a struct literal with default values"
+      },
+      {
+        "command": "gorefactor.errauto",
+        "title": "Go: Err Auto",
+        "description": "Automatically write default error handling"
       }
     ]
   }

@@ -12,6 +12,15 @@ export const allToolsInformation: { [key: string]: Tool } = {
 		replacedByGopls: false,
 		isImportant: false,
 		description: 'Automatically fill the struct values with defined fields of other variables or defaults.',
-		defaultVersion: '5f726ec804551f486baf9b866ab4ac9e685e37cc'
+		defaultVersion: 'latest'
+	},
+	errauto: {
+		name: 'errauto',
+		importPath: 'github.com/shiba6v/reftools/cmd/errauto',
+		modulePath: 'github.com/shiba6v/reftools',
+		replacedByGopls: false,
+		isImportant: false,
+		description: 'Automatically write default error handling.',
+		defaultVersion: 'latest'
 	}
 };
